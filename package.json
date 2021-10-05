@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "postcss src/styles.css --outpod css/styles.css",
-    "watch": "postcss src/styles.css --outpod css/styles.css --watch"
+    "build": "postcss src/styles.css --output css/styles.css",
+    "watch": "postcss src/styles.css --output css/styles.css --watch"
   },
   "keywords": [],
   "author": "",
